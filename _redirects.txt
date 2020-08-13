@@ -1,10 +1,10 @@
 # Redirects from what the browser requests to what we serve
 
-/2020/07/the-battle-against-them-would-be-in-the-shade-and-not-in-the-sun/               http://adamtervortcom.local/2020/07/the-battle-against-them-would-be-in-the-shade/               301
+/2020/07/the-battle-against-them-would-be-in-the-shade-and-not-in-the-sun/               /2020/07/the-battle-against-them-would-be-in-the-shade/               301
 
-/2020/06/the-magic-of-pto/               http://adamtervortcom.local/2020/06/magic-of-pto/               301
+/2020/06/the-magic-of-pto/               /2020/06/magic-of-pto/               301
 
-/2020/07/starting-can-be-the-hardest-part/               http://adamtervortcom.local/2020/07/starting-can-be-hardest/               301
+/2020/07/starting-can-be-the-hardest-part/               /2020/07/starting-can-be-hardest/               301
 
 /2020/07/youre-not-the-first-person-to-think-of-this/               /2020/07/not-first-to-think-of-this/               301
 
