@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/adamtervort
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adamtervort.com
+  * I am adamtervort (https://keybase.io/adamtervort) on keybase.
+  * I have a public key with fingerprint D9DD 89A8 C06C 71B5 2D7B  9CA1 1A34 A56E 3AAA 2DFA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f2b8ef335ae27bc22855e6f4a5951187723090f301cdc043002247014fea15130a",
+      "fingerprint": "d9dd89a8c06c71b52d7b9ca11a34a56e3aaa2dfa",
+      "host": "keybase.io",
+      "key_id": "1a34a56e3aaa2dfa",
+      "kid": "0101f2b8ef335ae27bc22855e6f4a5951187723090f301cdc043002247014fea15130a",
+      "uid": "868644042ce1b5d1509b1ff1f3bad119",
+      "username": "adamtervort"
+    },
+    "merkle_root": {
+      "ctime": 1597286732,
+      "hash_meta": "94452fb2678d763f6f575109b4a3735bc535fa2f2ba1623398ec8511c86a7725",
+      "seqno": 17265825
+    },
+    "revoke": {
+      "sig_ids": [
+        "4fb7544913a6e32e249a2d415cad7efea8b9f33e357de684762e032e579be1410f"
+      ]
+    },
+    "service": {
+      "hostname": "adamtervort.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1597286743,
+  "expire_in": 157680000,
+  "prev": "7bf88a17011bf62271d807b88bd3077df634092ecce38748db89590d7c7d6e67",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU2tsFEUcbynP1mLtVYiFWNwGUiOlOzs7O7MHmIAIwgf8UG15SJfZ3dne2t5d
+2d0e0FpQEBugNgjlUagCCgi0yFMqr1ChglJASYBYjARN0FyLFhLSImBwttHEqB/d
+L5Pd/f1/r5lZlZqUkJyYKW+PBHfn3k9si+sJmrzLqhT0qLlQCFYKJax3YaUmcz2t
+xDaFoCACEViSTpgFIaJMwrohSQQhplgyRSoCgGAsQVEVLSgCwzREGYqiJMlYBLLF
+KEAAilQYLVh2pJg5ZY4d8TitqZomUSkxRMXAQEeSiXXVoABQyGkVBimlkmn5g6Go
+609wczp12Rg7yr/xF63X3n/g/2ff5b10RCGKLIuyZDDu1gRIVHVgWcCCOjUBUH2g
+y5wIDTOOpiYNe8yJRR1PqBothJlTUso0Jxr1/H4Nz/ZRAKlYIgqGEs9I3ZAWZh7l
+w6osI8nSJQUTEyvQUiyEEeB6MoUYIt1AEFlU4uEoUCQIVcIMwvMYRKE8EuJWXDYv
+EuUKWFIQkRC34LBYtIT56q5dzKtzheBsoWWRbOkYybIKIOUdSkySVV6jDJBBTcx4
+DURXeYEMImwyhchYkZjIcQirOgMyEC1hTpWv58Rso5fe361/tzDGiIa5rzIn6kWN
+aCn/GfK8Mjfot+MtLPPR85mu/cmj6XbE5MeFT8SY49rRCM/Ckf8oToajBbagzHaY
+ZvsIhBUi8sfXYTFOiXWLEAr4jgLdUiQJA5OIWCdEN6GIsWkpUBZViRkGgwTLxNSJ
+ilTRxAY2FabgvzXJpTxazDl5fRHqlTtMqEpe3md434TE5IT+/fr4FykheVDaX7fr
+pdDjvwfOHBuf0ppXMWFgT80vs04Wh7vPd1cc3zGufOPVs5O11IN7g4fjH8bi2qAm
+V9gzXu1vaVd6fuwwD5+tS1926tbGWx/fLVi+ru5O6sul6xNrn90Uv6VsK+/Qj9pF
+7szxze97+ZM2fVL3Qt/QgwNztpK2SVWd+pwpoKM5DzzsysmBwyfFv8dl7rEgqt79
+zrXGlp+2nF86tDEtKam2aFb8fueW1q0jM95ry2meu/RiZvmNlkNNYMSA1eH97LMX
+v5uuXVtb8tqRqfdm7cttqS1oTx8x0yr6IljYUH2moGXLoSe/zDwXJ9awxUN2XXyQ
+lXu/8ut+dWtu72hPVp94e0Ch0VWTkreo6qnfuuqfXlp/b+L0+amXjqTAIe2BV5YN
+/HlFKbqzfmr15dXTsg/dXbDkaCBUcWFz0yB04PnnHmsZ1TCxc/Ow+vqkDGVCxe2u
+6ytT0hq6CzuP57cWNJJNVe1Z6YOLFq/L7bp325y7ZOyjkTcfFqY0BdVvRwwNQXz6
+wunGrBXbJx9esw78OnZo/xnbVudN2HPlkvSwLeODvQtEbeWi2WRJzc7a7pPnAg2X
+r26Ytm/tzXRnxoCvKqe1vvHom7TY7uuRjlc/XT5PfTMrG2XYJxbnnXh3FRuXvyrn
+1OzKPTUN1wtH7Q9MfCbQ0686sy2juSf7c4/9kKbs3Howe0r1sB2BG4O73/oo9/W1
+C5M2XMyHTRtS/wA=
+=VzWW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adamtervort
+
+==================================================================
