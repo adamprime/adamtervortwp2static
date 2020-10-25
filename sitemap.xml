@@ -369,6 +369,11 @@
 	    <changefreq>daily</changefreq>
 	</url>
 	<url>
+		<loc>https://adamtervort.com/2020/08/there-is-competition-but-not-as-much-as-you-think/</loc>
+		<lastmod>2020-08-20</lastmod>
+	    <changefreq>daily</changefreq>
+	</url>
+	<url>
 		<loc>https://adamtervort.com/great-speeches/</loc>
 		<lastmod>2020-08-13</lastmod>
 	    <changefreq>daily</changefreq>
@@ -391,6 +396,10 @@
 	<url>
 		<loc>https://adamtervort.com/contact/</loc>
 		<lastmod>2020-08-19</lastmod>
+	    <changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://adamtervort.com/category/hiring/</loc>
 	    <changefreq>daily</changefreq>
 	</url>
 	<url>
