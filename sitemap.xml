@@ -384,6 +384,11 @@
 	    <changefreq>daily</changefreq>
 	</url>
 	<url>
+		<loc>https://adamtervort.com/2020/10/we-all-need-beard-oil-sometimes/</loc>
+		<lastmod>2020-10-27</lastmod>
+	    <changefreq>daily</changefreq>
+	</url>
+	<url>
 		<loc>https://adamtervort.com/great-speeches/</loc>
 		<lastmod>2020-08-13</lastmod>
 	    <changefreq>daily</changefreq>
@@ -411,6 +416,14 @@
 	<url>
 		<loc>https://adamtervort.com/now/</loc>
 		<lastmod>2020-10-25</lastmod>
+	    <changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://adamtervort.com/category/beard/</loc>
+	    <changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://adamtervort.com/category/optimization/</loc>
 	    <changefreq>daily</changefreq>
 	</url>
 	<url>
