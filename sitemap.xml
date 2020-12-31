@@ -409,6 +409,11 @@
 	    <changefreq>monthly</changefreq>
 	</url>
 	<url>
+		<loc>https://adamtervort.com/2020/12/in-2021-lets-stop-calling-customers-users/</loc>
+		<lastmod>2020-12-31</lastmod>
+	    <changefreq>monthly</changefreq>
+	</url>
+	<url>
 		<loc>https://adamtervort.com/great-speeches/</loc>
 		<lastmod>2020-08-13</lastmod>
 	    <changefreq>monthly</changefreq>
@@ -536,6 +541,10 @@
 	</url>
 	<url>
 		<loc>https://adamtervort.com/category/customer-success/</loc>
+	    <changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>https://adamtervort.com/category/customers/</loc>
 	    <changefreq>monthly</changefreq>
 	</url>
 	<url>
