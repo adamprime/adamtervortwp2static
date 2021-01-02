@@ -414,6 +414,11 @@
 	    <changefreq>monthly</changefreq>
 	</url>
 	<url>
+		<loc>https://adamtervort.com/2021/01/cleaning-up-documentation/</loc>
+		<lastmod>2021-01-02</lastmod>
+	    <changefreq>monthly</changefreq>
+	</url>
+	<url>
 		<loc>https://adamtervort.com/great-speeches/</loc>
 		<lastmod>2020-08-13</lastmod>
 	    <changefreq>monthly</changefreq>
@@ -553,6 +558,10 @@
 	</url>
 	<url>
 		<loc>https://adamtervort.com/category/deep-work/</loc>
+	    <changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>https://adamtervort.com/category/documentation/</loc>
 	    <changefreq>monthly</changefreq>
 	</url>
 	<url>
